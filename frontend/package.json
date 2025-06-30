@@ -13,7 +13,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://CecyXona.github.io/netflix-auth-build",
+  "homepage": "https://CecyXona.github.io/production",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
